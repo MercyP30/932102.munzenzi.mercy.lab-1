@@ -1,5 +1,4 @@
 # 932102.munzenzi.mercy.lab-1
-University Laboratory Work
 
 Лабораторная работа №1. Базовая структура HTML-документа. Основы CSS.
 
